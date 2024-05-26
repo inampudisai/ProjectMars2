@@ -1,0 +1,5 @@
+C:\Users\anjan\OneDrive\Desktop\testing\AutomationProjects\New folder\ProjectMars2\obj\Debug\net6.0\ProjectMars2.csproj.AssemblyReference.cache
+C:\Users\anjan\OneDrive\Desktop\testing\AutomationProjects\New folder\ProjectMars2\obj\Debug\net6.0\ProjectMars2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anjan\OneDrive\Desktop\testing\AutomationProjects\New folder\ProjectMars2\obj\Debug\net6.0\ProjectMars2.AssemblyInfoInputs.cache
+C:\Users\anjan\OneDrive\Desktop\testing\AutomationProjects\New folder\ProjectMars2\obj\Debug\net6.0\ProjectMars2.AssemblyInfo.cs
+C:\Users\anjan\OneDrive\Desktop\testing\AutomationProjects\New folder\ProjectMars2\obj\Debug\net6.0\ProjectMars2.csproj.CoreCompileInputs.cache
